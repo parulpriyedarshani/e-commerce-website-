@@ -9,8 +9,8 @@ and open the template in the editor.
 */
 
 #banner_image{
-     padding-top: 75px; 
-     padding-bottom: 60px; 
+     padding-top: 85px; 
+     padding-bottom: 55px; 
      text-align: center; 
      color: #f8f8f8;
      background: url("img/intro-bg_1.jpg") no-repeat center center; 
@@ -18,17 +18,17 @@ and open the template in the editor.
 }
 
 #banner_content{ position: relative;
-                 padding-top: 6%;
+                 padding-top: 5%;
                  padding-bottom: 6%; 
-                 margin-top: 12%;
-                 margin-bottom: 12%;     
+                 margin-top: 15%;
+                 margin-bottom: 15%;     
                  background-color: rgba(0, 0, 0, 0.7); 
                  max-width: 660px; 
                  
 }
 
 footer{
-       padding: 10px 0; 
+       padding: 25px 0; 
        background-color: #101010; 
        color:#9d9d9d;
        position:fixed;
